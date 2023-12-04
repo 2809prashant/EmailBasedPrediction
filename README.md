@@ -4,7 +4,7 @@
 ## Dataframe Formation
 We possess a pickle (pkl) file encompassing unstructured email data, including fields such as 'subject,' 'body,' 'opened,' 'meeting link clicked,' and 'responded.' Our objective is to process this data and transform it into a structured dataframe.
 
-# Data cleaning
+## Data cleaning
 The email subject and body contain emojis, I tried to remove them. Furthermore, we utilize NLP techniques such as stopword removal and stemming to preprocess the corpus.
 
 ## Data analysis
