@@ -1,8 +1,8 @@
-Extract data 52 emails 
+Extract 52 emails data from pkl file 
 
 'subject', 'body', 'opened', 'meeting link clicked', 'responded'
 
-
+-----------------------------------------------------------------Ask to do -------------------------------------------------------
 Task Description:
 
 1. Data Analysis:
